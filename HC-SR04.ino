@@ -67,7 +67,7 @@ void loop()
     digitalWrite(redPin, LOW);
     digitalWrite(greenPin, HIGH);
   }
-  Serial.println("V 01")
+  Serial.println("V 01");
   Serial.print(cm);
   Serial.print("cm");
   Serial.println();
